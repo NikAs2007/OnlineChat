@@ -1,0 +1,11 @@
+client/x64/
+client/client.vcxproj.user
+client/client/
+client/Debug/
+client/.vs/
+
+server/.vs/
+server/x64/
+server/Debug/
+server/server.vcxproj.user
+server/server/
